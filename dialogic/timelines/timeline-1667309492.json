@@ -1,0 +1,15 @@
+{
+	"events": [
+		{
+			"character": "character-1667309464.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Welcome to Tsunami Defense Systems, you must be one of the new \"Lazarus\" agents.\nLet me quickly brief you on what you are about to do right now. First of all as you might have experienced the past year, the world has been encountering numerous disasters. \nNow this is where you come in, you as a \"Lazarus\" are to be developed to aid those in need. Which you are to grasp through TSD's disaster simulation."
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1667309492.json",
+		"name": "timeline-1"
+	}
+}
