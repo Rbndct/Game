@@ -23,8 +23,3 @@ Doors of Disaster is a fast-paced 2D platformer designed to raise awareness abou
 ## Contributing
 
 Contributions are welcome! If you have suggestions, find bugs, or want to add features, please open an issue or submit a pull request.
-
-
-## License
-
-This project is licensed under the [License Name] - see the [LICENSE](LICENSE) file for details.
