@@ -2,8 +2,7 @@
 
 **A 2D Platformer Game Developed with Godot Engine**
 
-![Doors of Disaster](link-to-game-screenshot.png)
-
+Doors of Disaster
 ## Overview
 
 Doors of Disaster is a fast-paced 2D platformer designed to raise awareness about natural disasters in an engaging and enjoyable way. The game offers a unique experience for platformer enthusiasts, combining swift in-game movement with challenging levels and a subtle narrative.
